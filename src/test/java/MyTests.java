@@ -3,6 +3,7 @@ import org.junit.jupiter.api.Test;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.PrintStream;
+// Hi if you read this, I get a suggestion to remove these ^^ because supposedly none of them were used
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
